@@ -11,5 +11,4 @@ Language: Fortran 90
 
 ◦ Analyzed finite-size effects in the system.
 
-This is one of the two final projects of the course of Computational Physics in my BSc Physics at the University of Granada, Spain and, therefore, it is mainly in Spanish. 
-An English version will be uploaded eventually.I will upload an English version eventually.
+This is one of the two final projects of the course of Computational Physics in my BSc Physics at the University of Granada, Spain and, therefore, it is mainly in Spanish. An English version will be uploaded eventually.I will upload an English version eventually.
