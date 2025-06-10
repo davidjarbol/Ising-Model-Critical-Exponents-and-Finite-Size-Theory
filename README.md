@@ -1,9 +1,9 @@
 # Ising-Model-Critical-Exponents-and-Finite-Size-Theory2
 Project using the Metropolis algorithm to simulate spin dynamics in a 2D Ising model. This is one of the two final projects of the course of Computational Physics in my BSc Physics at the University of Granada, Spain and, therefore, it is mainly in Spanish. An English version will be uploaded eventually.
 
-- **Score**: 9.8/10 (Recognised with Honours)
+**Score**: 9.8/10 (Recognised with Honours)
 
-- **Language**: Fortran 90
+**Language**: Fortran 90
 
 ◦ Reviewed theory on the Ising model, Metropolis algorithm, and phase transitions.
 
